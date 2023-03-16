@@ -1,2 +1,2 @@
 # OmegaUp
-# Some Problems from [a link](https://omegaup.com/)
+# Some Problems from [OmegaUp](https://omegaup.com/)
