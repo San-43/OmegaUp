@@ -1,0 +1,3 @@
+D:/Projects/OmegaUp/ConcursoCampamentoCPC-UAEH2022/NoHayTiempo/cmake-build-debug/CMakeFiles/NoHayTiempo.dir
+D:/Projects/OmegaUp/ConcursoCampamentoCPC-UAEH2022/NoHayTiempo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/OmegaUp/ConcursoCampamentoCPC-UAEH2022/NoHayTiempo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

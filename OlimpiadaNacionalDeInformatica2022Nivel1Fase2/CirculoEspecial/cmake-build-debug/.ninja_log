@@ -1,0 +1,10 @@
+# ninja log v5
+0	373	6927897373201045	build.ninja	f9f85eed09c420fc
+1	614	6927897506829340	CMakeFiles/CirculoEspecial.dir/main.cpp.obj	103191482a45a412
+617	811	6927897508759870	CirculoEspecial.exe	b6ce4cac4876639d
+6	524	6927900417934770	CMakeFiles/CirculoEspecial.dir/main.cpp.obj	103191482a45a412
+525	662	6927900419289948	CirculoEspecial.exe	b6ce4cac4876639d
+4	604	6927900953346763	CMakeFiles/CirculoEspecial.dir/main.cpp.obj	103191482a45a412
+605	752	6927900954791993	CirculoEspecial.exe	b6ce4cac4876639d
+4	598	6927901056526368	CMakeFiles/CirculoEspecial.dir/main.cpp.obj	103191482a45a412
+599	749	6927901057997776	CirculoEspecial.exe	b6ce4cac4876639d

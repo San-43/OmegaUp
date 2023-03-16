@@ -1,0 +1,5 @@
+
+~	cpp:S5276^"iimplicit conversion loses integer precision: 'std::vector::size_type' (aka 'unsigned long long') to 'int'(ÉÙë
+H	cpp:S5421".Global Pointer should be const at every level.(Ç¹Šåüÿÿÿÿ
+k	cpp:S5025$"QReplace the use of "new" with an operation that automatically manages the memory.(™›¶şÿÿÿÿ
+]	cpp:S55663"CChange this raw for-loop to a range for-loop or an "std::for_each".(€—ı‡øÿÿÿÿ

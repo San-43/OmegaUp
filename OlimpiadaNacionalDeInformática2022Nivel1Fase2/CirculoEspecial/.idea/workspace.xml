@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3b6e46c-5660-4596-a3ec-2c912d0c20bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/.idea/AliciaYLasLlavesDoradasDeLasPuertas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.cmake/api/v1/reply/cache-v2-090078e933513b627611.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-07c8e154c1e3b38859da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-4ae791660cd597511dbb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-08T00-57-52-0444.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.cmake/api/v1/reply/target-AliciaYLasLlavesDoradasDeLasPuertas-Debug-313fed7ae91b976be978.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-8eb0dd2436139d662039.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/AliciaYLasLlavesDoradasDeLasPuertas.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/AliciaYLasLlavesDoradasDeLasPuertas.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliciaYLasLlavesDoradasDeLasPuertas/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chocolates/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ElJuegoDeLaSilla/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ElJuegoDeLaSilla/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ElJuegoDeLaSilla/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ElJuegoDeLaSilla/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ElJuegoDeLaSilla/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ElJuegoDeLaSilla/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ElJuegoDeLaSilla/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ovejas/.idea/Ovejas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ovejas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ovejas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ovejas/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ovejas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ovejas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OvejasJava/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OvejasJava/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OvejasJava/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OvejasJava/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PosicionFibonacci/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WhereWasTheLittleBall/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3" />
+  </component>
+  <component name="ProjectId" id="2IwHBg8IIBPYslJrOrasCpgtZCm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3b6e46c-5660-4596-a3ec-2c912d0c20bc" name="Changes" comment="" />
+      <created>1671085591630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671085591630</updated>
+      <workItem from="1671085593174" duration="925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

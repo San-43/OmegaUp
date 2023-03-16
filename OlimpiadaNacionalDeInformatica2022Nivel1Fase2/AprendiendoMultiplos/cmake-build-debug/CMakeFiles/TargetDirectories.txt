@@ -1,0 +1,3 @@
+D:/Projects/OmegaUp/OlimpiadaNacionalDeInformática2022Nivel1Fase2/AprendiendoMultiplos/cmake-build-debug/CMakeFiles/AprendiendoMultiplos.dir
+D:/Projects/OmegaUp/OlimpiadaNacionalDeInformática2022Nivel1Fase2/AprendiendoMultiplos/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/OmegaUp/OlimpiadaNacionalDeInformática2022Nivel1Fase2/AprendiendoMultiplos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

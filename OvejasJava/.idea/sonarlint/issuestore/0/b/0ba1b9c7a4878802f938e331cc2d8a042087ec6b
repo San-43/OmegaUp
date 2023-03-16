@@ -1,0 +1,20 @@
+
+J
+java:S1066#"/Merge this if statement with the enclosing one.(şÃµæúÿÿÿÿ
+E
+java:S10661"/Merge this if statement with the enclosing one.(øô†ß
+w
+java:S1319"aThe type of "P" should be an interface such as "List" rather than the implementation "ArrayList".(ÙÊÉ…
+|
+java:S1319:"aThe type of "P" should be an interface such as "List" rather than the implementation "ArrayList".(‹æ¯úÿÿÿÿ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â­ãùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÊÉ…
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÊÉ…
+k	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹æ¯úÿÿÿÿ
+k	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹æ¯úÿÿÿÿ
+X
+java:S2184"BCast one of the operands of this addition operation to a "double".(ãÈ©
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆúõÅ
+C
+java:S1172+"(Remove this unused method parameter "d".(å‚ù¦øÿÿÿÿ

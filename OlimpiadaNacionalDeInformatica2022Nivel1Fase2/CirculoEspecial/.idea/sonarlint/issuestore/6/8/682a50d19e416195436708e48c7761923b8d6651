@@ -1,0 +1,6 @@
+
+p	cpp:S5276 "Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(Žžª‚ûÿÿÿÿ8³Žœ¤Ñ0
+4	cpp:S1481"unused variable 'x'(èé‹üûÿÿÿÿ8´Žœ¤Ñ0
+4	cpp:S1481"unused variable 'y'(øÛàµøÿÿÿÿ8µŽœ¤Ñ0
+4	cpp:S1481"unused variable 'r'(¢î®÷ûÿÿÿÿ8µŽœ¤Ñ0
+H	cpp:S3646".Declare this variable in a separate statement.(Î€­–ÿÿÿÿÿ

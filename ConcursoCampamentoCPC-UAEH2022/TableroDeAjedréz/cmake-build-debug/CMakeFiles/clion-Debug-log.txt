@@ -1,0 +1,1 @@
+CMakeLists.txt not found in D:\Projects\OmegaUp\ConcursoCampamentoCPC-UAEH2022\TableroDeAjedréz Select CMakeLists.txt
