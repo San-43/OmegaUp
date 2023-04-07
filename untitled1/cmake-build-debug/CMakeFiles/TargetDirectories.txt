@@ -1,0 +1,3 @@
+D:/Projects/OmegaUp/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+D:/Projects/OmegaUp/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/OmegaUp/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Projects/OmegaUp/WarCode1/A_DondeEmpieza/cmake-build-debug/CMakeFiles/A.dir
+D:/Projects/OmegaUp/WarCode1/A_DondeEmpieza/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/OmegaUp/WarCode1/A_DondeEmpieza/cmake-build-debug/CMakeFiles/rebuild_cache.dir

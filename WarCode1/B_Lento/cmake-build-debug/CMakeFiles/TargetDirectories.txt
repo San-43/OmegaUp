@@ -1,0 +1,3 @@
+D:/Projects/OmegaUp/WarCode1/B_Lento/cmake-build-debug/CMakeFiles/B_Lento.dir
+D:/Projects/OmegaUp/WarCode1/B_Lento/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/OmegaUp/WarCode1/B_Lento/cmake-build-debug/CMakeFiles/rebuild_cache.dir

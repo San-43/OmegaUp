@@ -1,0 +1,3 @@
+D:/Projects/OmegaUp/WarCode1/F_Teleportadores/cmake-build-debug/CMakeFiles/F_Teleportadores.dir
+D:/Projects/OmegaUp/WarCode1/F_Teleportadores/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/OmegaUp/WarCode1/F_Teleportadores/cmake-build-debug/CMakeFiles/rebuild_cache.dir

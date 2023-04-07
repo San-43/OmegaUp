@@ -1,0 +1,4 @@
+
+=	cpp:S5421"!Global variables should be const.(×ˆÛ8ÆĞ£Ëõ0
+c	cpp:S3519	"GOut of bound memory access (access exceeds upper limit of memory block)(âŞÿ8±Ó£Ëõ0
+c	cpp:S3519"BOut of bound memory access (accessed memory precedes memory block)(·¥ÿÿÿÿÿ8²Ó£Ëõ0

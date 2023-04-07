@@ -1,0 +1,3 @@
+D:/Projects/OmegaUp/OrdenaBasico1/cmake-build-debug/CMakeFiles/OrdenaBasico1.dir
+D:/Projects/OmegaUp/OrdenaBasico1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/OmegaUp/OrdenaBasico1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

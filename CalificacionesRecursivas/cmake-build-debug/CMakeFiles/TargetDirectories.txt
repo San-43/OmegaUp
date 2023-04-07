@@ -1,0 +1,3 @@
+D:/Projects/OmegaUp/CalificacionesRecursivas/cmake-build-debug/CMakeFiles/CalificacionesRecursivas.dir
+D:/Projects/OmegaUp/CalificacionesRecursivas/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/OmegaUp/CalificacionesRecursivas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

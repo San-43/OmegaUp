@@ -1,0 +1,3 @@
+D:/Projects/OmegaUp/WarCode1/C_FamiliaDeChimpances/cmake-build-debug/CMakeFiles/C_FamiliaDeChimpances.dir
+D:/Projects/OmegaUp/WarCode1/C_FamiliaDeChimpances/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/OmegaUp/WarCode1/C_FamiliaDeChimpances/cmake-build-debug/CMakeFiles/rebuild_cache.dir

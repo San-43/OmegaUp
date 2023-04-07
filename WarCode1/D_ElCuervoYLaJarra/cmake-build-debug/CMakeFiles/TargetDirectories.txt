@@ -1,0 +1,3 @@
+D:/Projects/OmegaUp/WarCode1/D_ElCuervoYLaJarra/cmake-build-debug/CMakeFiles/D_ElCuervoYLaJarra.dir
+D:/Projects/OmegaUp/WarCode1/D_ElCuervoYLaJarra/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/OmegaUp/WarCode1/D_ElCuervoYLaJarra/cmake-build-debug/CMakeFiles/rebuild_cache.dir

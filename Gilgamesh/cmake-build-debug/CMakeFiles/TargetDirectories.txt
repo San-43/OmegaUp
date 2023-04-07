@@ -1,0 +1,3 @@
+D:/Projects/OmegaUp/Gilgamesh/cmake-build-debug/CMakeFiles/Gilgamesh.dir
+D:/Projects/OmegaUp/Gilgamesh/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/OmegaUp/Gilgamesh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
